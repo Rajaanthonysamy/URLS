@@ -6,3 +6,5 @@ https://erdem.pl/2021/05/introduction-to-attention-mechanism   -  Attention mech
 
 https://www.youtube.com/watch?v=JxgmHe2NyeY  - ML concepts
 
+https://jalammar.github.io/illustrated-transformer/ - Transformers
+
