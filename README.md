@@ -8,3 +8,5 @@ https://www.youtube.com/watch?v=JxgmHe2NyeY  - ML concepts
 
 https://jalammar.github.io/illustrated-transformer/ - Transformers
 
+https://artificialanalysis.ai/   model analysis
+
